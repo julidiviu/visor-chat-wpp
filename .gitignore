@@ -44,6 +44,5 @@ yarn-error.log*
 next-env.d.ts
 
 # documentación interna / configuración local de agentes
-/AGENTS.md
-/MEMORY.md
+
 /.opencode/
